@@ -1,0 +1,28 @@
+{
+    "context": "client",
+    "identifier": "com.pa.gtc.settingsmanager",
+    "display_name": "GTC Settings Manager",
+    "description": "Framework for extended settings",
+    "author": "GTC-Gonzo",
+    "version": "1.0",
+    "signature": "not yet implemented",
+    "priority": 11,
+    "id": "gtcSettingsManager",
+    "forum": "",
+    "category": [
+        "Framework"
+    ],
+    "scenes": {
+        "settings": [
+            "coui://ui/mods/gtcSettingsManager/gtcSettingsManager.js",
+            "coui://ui/mods/gtcSettingsManager/gtcSettingsManager.css"
+        ]
+    },
+    "global_mod_list": [
+        "coui://ui/mods/gtcSettingsManager/gtcSettingsManager_global.js"
+    ],
+    "requires": [],
+    "date": "2014/06/19",
+    "build": "67523",
+    "enabled": true
+}

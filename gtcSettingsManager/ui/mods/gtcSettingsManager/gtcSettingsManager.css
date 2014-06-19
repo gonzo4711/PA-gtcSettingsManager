@@ -1,0 +1,17 @@
+#main .content .option-list .subgroupContainer{
+	float: none;
+	margin-bottom: 10px;
+	padding-left: 15px;
+}
+	#main .content .option-list .subgroupContainer h3{
+		margin-left: -10px;
+		float: none;
+	}
+
+	#main .content .option-list .subgroupContainer .form-group{
+		float: left;
+		margin-right: 20px;
+	}
+#main .content .option-list .subgroupContainerClear{
+	clear: both;
+}
